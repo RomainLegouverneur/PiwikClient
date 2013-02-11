@@ -1,5 +1,5 @@
 {
-    "name":        "knplabs/knp-piwik-client",
+    "name":        "xstyled/knp-piwik-client",
     "type":        "library",
     "description": "Simple client for Piwik (web analytics) API.",
     "keywords":    ["piwik", "analytics", "knplabs", "knp"],
