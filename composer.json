@@ -2,8 +2,8 @@
     "name":        "xstyled/knp-piwik-client",
     "type":        "library",
     "description": "Simple client for Piwik (web analytics) API.",
-    "keywords":    ["piwik", "analytics", "knplabs", "knp"],
-    "homepage":    "http://github.com/KnpLabs/PiwikClient",
+    "keywords":    ["piwik", "analytics", "knplabs", "knp", "xstyled"],
+    "homepage":    "https://github.com/xSTyled/PiwikClient",
     "license":     "MIT",
 
     "authors": [
@@ -14,6 +14,10 @@
         {
             "name": "Symfony Community",
             "homepage": "http://github.com/KnpLabs/PiwikClient/contributors"
+        },
+        {
+            "name": "Romain Legouverneur",
+            "homepage": "http://www.xstyled.net"
         }
     ],
 
