@@ -63,7 +63,7 @@ class Client
         $data = $this->getConnection()->send($params);
 
         if ('php' === $format) {
-            $object = unserialize($data);
+            $object = $data;
 
             if (isset($object['result']) && 'error' === $object['result']) {
                 throw new Exception($object['message']);
